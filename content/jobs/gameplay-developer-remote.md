@@ -16,6 +16,7 @@ This is a fully remote position.
 ## These won't hurt either
 * Experience with Godot and Unity game engines
 * Familiarity with Kanban style development
+* You live in or near the Denver/Colorado Springs area. This isn't required though!
 
 ## Compensation
 95-105k Annually depending on location, skillset, and other factors.
@@ -23,11 +24,10 @@ This is a fully remote position.
 Volcano Lair provides comprehensive benefits including Health and Life insurance, AD&D, 401k, 15 PTO days a year (unlimited PTO is a scam and we hate it too), 20 sick days, COVID leave, 6 months maternity leave (for both parents after 1 year of employment) and much more.
 
 ## Interested?
-Apply to this position on Indeed or email your resume and portfolio to careers at volcanolair dot co.
+Apply to this position on Indeed or email your resume and portfolio to `careers at volcanolair dot co`. If you are emailing us, include the position in your email title.
 
-## Our lawyers made us add this
 *Volcano Lair is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. Volcano Lair also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.*
 
 *In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and the State of Colorado, and to complete the required employment eligibility verification document form upon hire.*
 
-*If you are disabled or are otherwise need assistance to apply for this position, special accomodations can be arranged by contacting us at +1 303 403 0500 or at careers at volcanolair dot co.*
+*If you are disabled or are otherwise need assistance to apply for this position, special accomodations can be arranged by contacting us at `+1 303 403 0500` or at `careers at volcanolair dot co`.*
