@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Volcano Lair</title>
+    <link>https://volcanolair.co/series/</link>
+    <description>Recent content in Series on Volcano Lair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2022 Volcano Lair LLC</copyright><atom:link href="https://volcanolair.co/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

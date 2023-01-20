@@ -29,14 +29,6 @@ theme = "hello-friend-ng"
     tag      = "tags"
     series   = "series"
 
-[[params.social]]
-	link = "https://gamedev.social/@volcanolair"
-	icon = "mastodon"
-
-[[params.social]]
-	link = "https://twitter.com/thevolcanolair"
-	icon = "twitter"
-
 [languages]
   [languages.en]
     title = "Volcano Lair"
@@ -46,8 +38,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      #logoText = "hello friend ng"
-      #logoHomeLink = "/"
+      #logoText = "hello friend"
     # or
     #
     path = "/img/logo.svg"
@@ -62,9 +53,24 @@ theme = "hello-friend-ng"
 #  [[menu.main]]
 #    identifier = "jobs"
 #    name       = "Careers"
-#    url        = "/jobs"
+#    url        = "/jobs/"
 	
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+#  [[menu.main]]
+#    identifier = "blog"
+#    name       = "Blog"
+#    url        = "/posts/"
+
+   [[menu.main]]
+	 identifier = "contact"
+     name       = "Contact"
+     url        = "/contact/"
+	
+[[params.social]]
+ link = "//gamedev.social/@volcanolair"
+ name = "mastodon"
+ description = "Volcano Lair Mastodon page"
+
+[[params.social]]
+ link = "//twitter.com/thevolcanolair"
+ name = "twitter"
+ description = "Why would you want to follow us on Twitter"
