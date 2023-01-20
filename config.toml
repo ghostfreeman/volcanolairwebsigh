@@ -66,11 +66,11 @@ theme = "hello-friend-ng"
      url        = "/contact/"
 	
 [[params.social]]
- link = "//gamedev.social/@volcanolair"
+ url = "//gamedev.social/@volcanolair"
  name = "mastodon"
  description = "Volcano Lair Mastodon page"
 
 [[params.social]]
- link = "//twitter.com/thevolcanolair"
+ url = "//twitter.com/thevolcanolair"
  name = "twitter"
  description = "Why would you want to follow us on Twitter"
