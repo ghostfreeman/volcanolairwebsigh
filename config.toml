@@ -2,6 +2,7 @@ baseURL = "https://volcanolair.co/"
 languageCode = "en-us"
 title = "Volcano Lair"
 theme = "hello-friend-ng"
+googleAnalytics = "G-WG01CH0XM7"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -38,11 +39,12 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      #logoText = "hello friend"
-    # or
-    #
-    path = "/img/logo.svg"
-    alt = "Volcano Lair"
+      path = "/img/logo.svg"
+      alt = "Volcano Lair"
+
+    [languages.en.params.footer]
+      copyright = "Volcano Lair LLC"
+      privacy = "yes"
 
   # And you can even create generic menu
   [[menu.main]]
