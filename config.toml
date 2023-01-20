@@ -1,0 +1,70 @@
+baseURL = "https://volcanolair.co/"
+languageCode = "en-us"
+title = "Volcano Lair"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  custom_css 	  = ["css/styles.css"]
+
+  # Subtitle for home
+  homeSubtitle = "We Make Games"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Homepage for Volcano Lair, an indie game studio that's trying its best."
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[[params.social]]
+	link = "https://gamedev.social/@volcanolair"
+	icon = "mastodon"
+
+[[params.social]]
+	link = "https://twitter.com/thevolcanolair"
+	icon = "twitter"
+
+[languages]
+  [languages.en]
+    title = "Volcano Lair"
+    subtitle = "We Make Games"
+    keywords = ""
+    copyright = '&copy; 2016-2022 Volcano Lair LLC'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      #logoText = "hello friend ng"
+      #logoHomeLink = "/"
+    # or
+    #
+    path = "/img/logo.svg"
+    alt = "Volcano Lair"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+	
+#  [[menu.main]]
+#    identifier = "jobs"
+#    name       = "Careers"
+#    url        = "/jobs"
+	
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
