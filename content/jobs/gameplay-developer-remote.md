@@ -9,7 +9,7 @@ Volcano Lair is looking for a qualified gameplay developer who is motivated and 
 This is a fully remote position.
 
 ## What we're looking for
-* A Bachelors degree in Computer Science or similar or consumate work experience
+* A Bachelors degree in Computer Science (or similar) and/or consumate work experience
 * You've worked on at least 1 shipped title
 * Excellent with C++ and C#
 
@@ -19,9 +19,9 @@ This is a fully remote position.
 * You live in or near the Denver/Colorado Springs area. This isn't required though!
 
 ## Compensation
-95-105k Annually depending on location, skillset, and other factors.
+95,000 to 105,000k Annually depending on location, skillset, and other factors.
 
-Volcano Lair provides comprehensive benefits including Health and Life insurance, AD&D, 401k, 15 PTO days a year (unlimited PTO is a scam and we hate it too), 20 sick days, COVID leave, 6 months maternity leave (for both parents after 1 year of employment) and much more.
+Volcano Lair provides comprehensive benefits including Health and Life insurance, AD&D, 401k, 20 PTO days a year, 20 sick days, COVID leave, 6 months paid maternity leave (for both parents after 1 year of employment) and much more.
 
 ## Interested?
 Apply to this position on Indeed or email your resume and portfolio to `careers at volcanolair dot co`. If you are emailing us, include the position in your email title.
