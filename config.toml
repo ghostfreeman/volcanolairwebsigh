@@ -57,10 +57,10 @@ googleAnalytics = "G-WG01CH0XM7"
 #    name       = "Careers"
 #    url        = "/jobs/"
 	
-#  [[menu.main]]
-#    identifier = "blog"
-#    name       = "Blog"
-#    url        = "/posts/"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts/"
 
    [[menu.main]]
 	 identifier = "contact"
