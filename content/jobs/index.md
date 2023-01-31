@@ -12,4 +12,4 @@ Please don't send unsolicited game ideas. We legally cannot read them.
 
 *In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and the State of Colorado, and to complete the required employment eligibility verification document form upon hire.*
 
-*If you are disabled or are otherwise need assistance to apply for a position, special accomodations can be arranged by contacting us at `+1 303 403 0500` or at `careers at volcanolair dot co`.*
+*If you are disabled or are otherwise need assistance to apply for a position, special accommodations can be arranged by contacting us at `+1 303 403 0500` or at `careers at volcanolair dot co`.*
