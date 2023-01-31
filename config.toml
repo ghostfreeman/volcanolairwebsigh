@@ -45,6 +45,8 @@ googleAnalytics = "G-WG01CH0XM7"
     [languages.en.params.footer]
       copyright = "Volcano Lair LLC"
       privacy = "yes"
+      terms = "yes"
+      streaming = "yes"
 
   # And you can even create generic menu
   [[menu.main]]
