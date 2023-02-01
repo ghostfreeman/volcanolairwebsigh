@@ -8,17 +8,17 @@ Volcano Lair is looking for a qualified gameplay developer who is motivated and 
 
 This is a fully remote position.
 
-## What we're looking for
+## The qualifications you need
 
 * A Bachelors degree in Computer Science (or similar) and/or equivalent work experience
 * You've worked on at least 1 shipped title
 * Excellent with C++ and C#
 
-## These won't hurt either
+### And these won't hurt either
 
 * Experience with Godot and Unity game engines
 * Familiarity with Kanban style development
-* You live in or near the Denver/Colorado Springs area. This isn't required though!
+* You live in or near the Denver/Colorado Springs area. This isn't required though, we're 100% remote!
 
 ## Compensation
 
