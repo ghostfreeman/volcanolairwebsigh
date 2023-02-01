@@ -1,14 +1,14 @@
 ---
 title: "Discord Code of Conduct"
-date: 2023-01-31T18:42:07-06:00
-draft: true
+date: 2023-02-01T18:42:07-06:00
+draft: false
 ---
 
-Last updated 31 January 2023.
+Last updated 1 February 2023.
 
 # The Short Version
 
-Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; moderators are volunteers and admins have day jobs, so please be respectful of their time; don’t post sexually explicit material; don't be racist, homophobic, transphobic; pirate; [be excellent to each other](https://youtu.be/S67sDHdhpio?t=79); and if you can’t resolve an issue with someone else you should contact the moderation team. If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Discord.
+Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; moderators are volunteers and admins have day jobs, so please be respectful of their time; don’t post sexually explicit material; don't be racist, homophobic, transphobic; pirate; don't dox; [be excellent to each other](https://youtu.be/S67sDHdhpio?t=79); and if you can’t resolve an issue with someone else you should contact the moderation team. If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Discord.
 
 # The Long Version
 
@@ -22,9 +22,10 @@ Respectful behavior includes but is not limited to:
 
 * Be considerate, kind, constructive, and helpful.
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* Avoid imagery, language, and behavior that may be seen as racist, hate speech, homophobic, or transphobic
-* Avoid behavior that may be seen as encroaching on one’s privacy or agency, e.g. stalking
-* Lack of due regard for the feelings, wishes, rights, and traditions of others.
+* Avoid imagery, language, and behavior that may be seen as excessively graphic, violent, sexist, racist, hate speech, promoting fascism or fascist ideologies, homophobic, or transphobic.
+* Avoid behavior that may be seen as encroaching on one’s privacy or agency, e.g. stalking.
+* Respecting or exercising due regard for the feelings, wishes, rights, and traditions of others.
+* Not intentionally disclosing personally identifying information on another user without their consent, aka "doxing."
 * Arguing on ideas and topics, not people; using your best judgement to keep these discussions friendly and not with the intent to inflame or offend.
 
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the Moderators and Administrators (henceforth the “**moderation team**") publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
@@ -59,11 +60,17 @@ We are always flattered to see people all around the world playing our games. Ho
 
 If you think we should have additional channels for other languages, let the moderation team know.
 
+## Age Restrictions
+
+Due to safety regulations, and the maturity and graphicness of content produced by the company, we do not allow any user under the age of 17 to be active on the Discord. Anyone under the age of 17 will be barred from accessing the Discord.
+
 ## User Generated Content
 
-We welcome the community to create fan content based on our works in the manner they feel it would best express themselves. There are expectations that in order for our Discord to remain a safe and visible space for all parties. 
+We welcome the community to create fan content based on our works in the manner they feel it would best express themselves. There are expectations that in order for our Discord to remain a safe and visible space for all parties.
 
-Therefore, user generated content that is clearly explicit in either a violent or sexual nature, or otherwise in a manner that would make it inappropriate for public spaces (a.k.a. “Not Safe For Work”) is not permitted on the Discord. The moderation team have sole judgement to rule if this content is allowed or not.
+Therefore, user generated content that is clearly explicit in either a graphic, violent, or sexual nature, or otherwise in a manner that would make it inappropriate for public spaces (a.k.a. “Not Safe For Work,” **NSFW**) is not permitted on the Discord. The moderation team have sole judgement to rule if this content is allowed or not.
+
+**The Bottom Line**: We welcome user generated content, but we do not welcome NSFW content. [Go be horny somewhere else](https://i.imgur.com/DxEqStK.mp4).
 
 ## Discussion about Games
 
@@ -82,7 +89,7 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 
 ## Not For Profit (Mostly)
 
-This community straight up dislikes unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, CD key selling, piracy, affiliate shops, crypto, trading, and other solicitation, except in channels dedicated to that purpose (if such channels exist). If you join this community to take value rather than contribute, the community will quickly notice and react.
+This community straight up dislikes unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, CD key selling, piracy, affiliate shops, crypto, trading, auctioning, and other solicitation, except in channels dedicated to that purpose (if such channels exist). If you join this community to take value rather than contribute, the community will quickly notice and react.
 
 While apparent commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercially appropriate, our guidelines are that you:
 
@@ -119,7 +126,7 @@ The determination of whether a message is trolling is often a subjective assessm
 2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Discord, and, 
 3. Is posted via a deliberately fake account.
 
-Content posted in this fashion results in a no-warning perma of the offending account from the Discord. Trolling which does not meet this high bar is managed via the usual content review process.
+Content posted in this fashion results in a no-warning ban of the offending account from the Discord. Trolling which does not meet this high bar is managed via the usual content review process.
 
 ### The Bottom Lines
 
@@ -146,7 +153,7 @@ If you see someone violating any part of this Code of Conduct, we urge you to re
 
 If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of the moderation team. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed. We will listen and work to resolve the matter with your help promptly.
 
-Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn as leaders.
+Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are always growing in some shape or form, and all monsters can become beautiful.
 
 ## Additional Situations
 
@@ -162,7 +169,7 @@ As the moderation team, we will seek to resolve conflicts peacefully and in a ma
 
 The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`.
 
-If for some reason you do not feel comfortable contacting a Moderator and want to contact an Administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator or DM the administrator directly via Discord.
+If for some reason you do not feel comfortable contacting a Moderator and want to contact an Administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
 
 ### Moderators
 
@@ -170,7 +177,7 @@ Moderators (or **Psichonauts**) are community members who serve at the pleasure 
 
 The Moderators are as of January 2023:
 
-* Blank
+* 
 
 The administrators will solicit, recruit, and vet moderators at our own discretion.
 
@@ -180,7 +187,7 @@ Administrators (or **Masterminds**) are employees of Volcano Lair LLC.
 
 The Administrator(s) of the Discord as of January 2023:
 
-* @kingthrillgore (Volcano Lair Managing Director)
+* @kingthrillgor#1400 (Volcano Lair Managing Director)
 
 ### Escalation of Moderation Team Actions
 
@@ -190,12 +197,12 @@ Moderator and Administrator actions escalate from least severe to most severe:
 * We ask you to stop in a less friendly tone
 * Revocation of privileges on the server
 * Removal of comments and content
-* Temporary Ban from 1-14 days
+* Temporary Ban for 1-14 days
 * Permanent Ban (“perma’d”) from the Discord
 
 The moderation team reserve their judgement to use less or severe punishment as the needs arise.
 
-Using mechanisms to avoid, dodge, or route around a ban, such as creating a new account, co-opting another account, or using an intermediary account, is grounds for an immediate and unappealable permaban.
+Using mechanisms to avoid, dodge, evade, or route around a ban, such as but not limited to creating a new account, co-opting another account, or using an intermediary account, is grounds for an immediate and unappealable permaban.
 
 ### Redress of Grievances and Appeal
 
@@ -203,7 +210,7 @@ Due to the nature of running an online community, we cannot guarantee the right 
 
 ## Updates to this policy
 
-This policy can be updated at any time as the moderation team deems fit, by consensus alone. We will always keep you informed of updates, as quickly as possible.
+This policy can be updated at any time as the moderation team deems fit. We will always keep you informed of updates, as quickly as possible.
 
 ## Discord Policies
 

@@ -2,6 +2,8 @@
 title: "Discord Code of Conduct"
 date: 2023-01-31T12:08:14-06:00
 draft: true
+aliases:
+    - /policy/discord-code-of-conduct
 ---
 
 Last updated 31 January 2023.
