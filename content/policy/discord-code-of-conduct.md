@@ -1,7 +1,7 @@
 ---
 title: "Discord Code of Conduct"
 date: 2023-02-03T14:12:07-06:00
-draft: false
+draft: true
 ---
 
 Last updated 3 February 2023.
