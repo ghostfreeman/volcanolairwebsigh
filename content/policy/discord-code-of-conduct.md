@@ -1,10 +1,10 @@
 ---
 title: "Discord Code of Conduct"
-date: 2023-02-01T18:42:07-06:00
+date: 2023-02-03T14:12:07-06:00
 draft: false
 ---
 
-Last updated 1 February 2023.
+Last updated 3 February 2023.
 
 # The Short Version
 
@@ -21,18 +21,35 @@ We value respectful behavior above individual opinions.
 Respectful behavior includes but is not limited to:
 
 * Be considerate, kind, constructive, and helpful.
-* Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* Avoid imagery, language, and behavior that may be seen as excessively graphic, violent, sexist, racist, hate speech, promoting fascism or fascist ideologies, homophobic, or transphobic.
+* Avoiding demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
+* Avoiding imagery, language, and behavior that may be seen as graphic, violent, sexist, racist, hate speech, promoting fascism or fascist ideologies, homophobic, or transphobic.
 * Avoid behavior that may be seen as encroaching on one’s privacy or agency, e.g. stalking.
 * Respecting or exercising due regard for the feelings, wishes, rights, and traditions of others.
-* Not intentionally disclosing personally identifying information on another user without their consent, aka "doxing."
-* Arguing on ideas and topics, not people; using your best judgement to keep these discussions friendly and not with the intent to inflame or offend.
+* Arguing on ideas and topics, not people.
+
+Disrespectful behavior includes but is not limited to:
+
+* Verbal harassment in any form of community members.
+* Written harassment including on any electronic media or communication channel.
+* Deliberate intimidation, stalking, or following.
+* Violent threats or language directed against another person.
+* Sexual language and imagery in any communication channel.
+* Harassing photography or recording.
+* Racist, homophobic, or transphobic speech or ideals.
+* Promoting fascist speech or ideals (with the exception to inform, educate, or entertain; this distinction shall be made by the Moderation Team).
+* Defaming individuals based on a previous or unacknowledged name or gender, aka "deadnaming."
+* Intentionally disclosing personally identifying information on another user without their consent, aka "doxing."
+* Sustained disruption of voice chats, video chats, talks or other events.
+* Unwelcome sexual attention or advances.
+* Advocating for, or encouraging, any of the above behavior.
+
+**Members asked to stop any inappropriate behavior are expected to comply immediately.**
 
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the Moderators and Administrators (henceforth the “**moderation team**") publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community.
 
-**The Bottom Line**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the moderation teams’ discretion.
+**The Bottom Line**: We believe in [being excellent to each other](https://youtu.be/S67sDHdhpio?t=79) above all things. We encourage everyone to be respectful and mindful, and to have fun in the community. Disrespectful behavior by active members may be considered a violation of this code of conduct at the moderation teams’ discretion.
 
 ## Privacy
 
@@ -44,7 +61,7 @@ For attribution of specific content found on this Discord, we ask that you ask t
 
 ## Read the Room
 
-Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. These are lies made up by the absolutely deranged because [we think we know what we’re doing](https://i.kym-cdn.com/photos/images/original/000/114/873/meh.ro4758.jpg). While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their leadership experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. What is taboo one day may be gratis the next.
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. These are lies made up by the absolutely deranged because [we think we know what we’re doing](https://i.kym-cdn.com/photos/images/original/000/114/873/meh.ro4758.jpg). While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their experiences. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. What is taboo one day may be gratis the next.
 
 Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
 
@@ -52,7 +69,7 @@ Different channels have organically developed distinct personalities. Before pos
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section to see how many members are present, what messages have already been pinned, and what files have been shared.
 
-**The Bottom Line**: Posting the same message to multiple channels is spamming. Don't spam. 
+**The Bottom Line**: Posting the same message to multiple channels is spamming. Don't spam.
 
 ## Languages
 
@@ -175,7 +192,7 @@ If for some reason you do not feel comfortable contacting a Moderator and want t
 
 Moderators (or **Psichonauts**) are community members who serve at the pleasure of Volcano Lair in an unpaid capacity.
 
-The Moderators are as of January 2023:
+The Moderators are as of February 2023:
 
 * 
 
@@ -218,4 +235,4 @@ All users are also subject to the [Discord Community Guidelines](https://discord
 
 # Attribution
 
-This COC was adopted from the [Rands Leadership Slack COC](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md).
+This COC was adopted from the [Rands Leadership Slack COC](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) and [NashGameDev Code of Conduct](https://nashgame.dev/codeofconduct/).
