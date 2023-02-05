@@ -12,7 +12,7 @@ Last updated 5 February 2023.
 2. Be civil, polite, and friendly. Don't be disrespectful. And don't be a troll, either.
 3. Bigotry, sexism, racism, homophobia, transphobia, and fascism will not be tolerated. This extends to usernames.
 4. Spamming text, image, video or other kind of media in any kind of method is prohibited and will be handled accordingly.
-5. No Doxing or Deadnaming.
+5. No Doxing, Stalking, or Deadnaming.
 6. If you feel someone's breaking the rules or you can't handle something w/ them directly, don't make a scene. Contact the moderation team instead.
 7. Discussion of piracy or commercial solicitation is straight up not allowed. Don't do it.
 8. NSFW content is not allowed. Go be horny somewhere else.
@@ -141,7 +141,7 @@ If, after engaging with the community, you are still wondering if a specific mes
 
 ### The Bottom Lines
 
-* Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation.
+* Emailing and/or/DMing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation.
 * Selling of CD keys or links to grey area merchants like G2A is a Code of Conduct violation.
 * Discussion of piracy of any games, let alone ours, is a Code of Conduct violation.
 * Aggressive spamming is a Code of Conduct violation.
@@ -199,7 +199,7 @@ As the moderation team, we will seek to resolve conflicts peacefully and in a ma
 
 The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`.
 
-If for some reason you do not feel comfortable contacting a Moderator and want to contact an administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
+If for some reason you do not feel comfortable contacting a moderator and want to contact an administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
 
 ### Moderators
 
