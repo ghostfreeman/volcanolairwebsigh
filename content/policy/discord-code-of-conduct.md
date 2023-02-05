@@ -177,9 +177,9 @@ The determination of how much time is allowed is up to the moderation team, but 
 
 ## Resolve Peacefully
 
-As a leadership community, we believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
+We believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
 
-If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using specifics from this document as guidelines. Expect that others in the community wish to help keep the community respectful and welcome your input.
+If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using specifics from this document as guidelines. Expect that others in the community wish to help keep the community respectful and welcome your input. However, we also expect you to recognize that chiding people for Code of Conduct violations, be they actual or perceived, is a great way to look like a tool. Ultimately, use your own judgement when it comes to helping keep our community accountable and know when you need to involve the moderation team.
 
 If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of the moderation team. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed. We will listen and work to resolve the matter with your help promptly.
 
