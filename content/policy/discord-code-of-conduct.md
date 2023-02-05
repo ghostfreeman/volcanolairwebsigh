@@ -1,10 +1,10 @@
 ---
 title: "Discord Code of Conduct"
-date: 2023-02-04T14:12:07-06:00
+date: 2023-02-05T11:32:00-06:00
 draft: false
 ---
 
-Last updated 4 February 2023.
+Last updated 5 February 2023.
 
 # The Short Version
 
@@ -150,7 +150,7 @@ If, after engaging with the community, you are still wondering if a specific mes
 
 A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory, digressive, extraneous, or off-topic messages to provoke members into displaying emotional responses and normalizing tangential discussion either for the troll's amusement or a specific gain.
 
-The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where the Discord has a zero-tolerance policy where:
+The determination of whether a message is trolling is often a subjective assessment by the moderation team, but there is a specific situation where the Discord has a zero-tolerance policy where:
 
 1. A message which is perceived and reported as trolling,
 2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Discord, and, 
@@ -167,7 +167,7 @@ Content posted in this fashion results in a no-warning ban of the offending acco
 
 The moderation team may come across or be notified of content or conduct violating the Code of Conduct. In some situations, this may lead to the moderation team deleting the message (or messages) that violate the CoC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
-Ideally, another Discord member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. Suppose action is desired due to lack of response or any other reason. In that case, the moderation team will notify the original poster of the violation and the need to reword or remove the problematic message. The moderation team will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
+Ideally, another Discord member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further moderation team action is required. Suppose action is desired due to lack of response or any other reason. In that case, the moderation team will notify the original poster of the violation and the need to reword or remove the problematic message. The moderation team will also specify a time after which moderation action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
 
 The determination of how much time is allowed is up to the moderation team, but the following context will be used to help determine the time before the moderation team’s action:
 
@@ -187,11 +187,11 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 ## Additional Situations
 
-If you cannot resolve a situation peacefully, please contact a moderator or administrator as the need arises.
+If you cannot resolve a situation peacefully, please contact the moderation team as the need arises.
 
 Suppose the moderation team determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Discord.
 
-As the moderation team, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
+As the moderation team, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the moderation team's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 ## Moderation Team
 
@@ -199,7 +199,7 @@ As the moderation team, we will seek to resolve conflicts peacefully and in a ma
 
 The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`.
 
-If for some reason you do not feel comfortable contacting a Moderator and want to contact an Administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
+If for some reason you do not feel comfortable contacting a Moderator and want to contact an administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
 
 ### Moderators
 
