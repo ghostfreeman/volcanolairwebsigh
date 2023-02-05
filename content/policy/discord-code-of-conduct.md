@@ -1,14 +1,31 @@
 ---
 title: "Discord Code of Conduct"
-date: 2023-02-03T14:12:07-06:00
-draft: true
+date: 2023-02-04T14:12:07-06:00
+draft: false
 ---
 
-Last updated 3 February 2023.
+Last updated 4 February 2023.
 
 # The Short Version
 
-Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; moderators are volunteers and admins have day jobs, so please be respectful of their time; don’t post sexually explicit material; don't be racist, homophobic, transphobic; pirate; don't dox; [be excellent to each other](https://youtu.be/S67sDHdhpio?t=79); and if you can’t resolve an issue with someone else you should contact the moderation team. If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Discord.
+1. You must be 17 years of age or older to be here.
+2. Be civil, polite, and friendly. Don't be disrespectful. And don't be a troll, either.
+3. Bigotry, sexism, racism, homophobia, transphobia, and fascism will not be tolerated. This extends to usernames.
+4. Spamming text, image, video or other kind of media in any kind of method is prohibited and will be handled accordingly.
+5. No Doxing or Deadnaming.
+6. If you feel someone's breaking the rules or you can't handle something w/ them directly, don't make a scene. Contact the moderation team instead.
+7. Discussion of piracy or commercial solicitation is straight up not allowed. Don't do it.
+8. NSFW content is not allowed. Go be horny somewhere else.
+9. Please keep story-related content in appropriate spoiler channels.
+10. Argue topics, not people. And don't be cruel about it. None of us are monsters.
+11. Always read the room first.
+12. Above all things: [Be excellent to each other](https://youtu.be/S67sDHdhpio?t=79).
+
+**If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Discord.**
+
+Make sure you read the full Guidelines [here](/policy/discord-code-of-conduct). Remember you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
+
+Click the Checkmark Reaction to indicate you've read the Code of Conduct, and to join in the fun.
 
 # The Long Version
 
@@ -32,6 +49,7 @@ Disrespectful behavior includes but is not limited to:
 * Verbal harassment in any form of community members.
 * Written harassment including on any electronic media or communication channel.
 * Deliberate intimidation, stalking, or following.
+* Otherwise being disrespectful to others.
 * Violent threats or language directed against another person.
 * Sexual language and imagery in any communication channel.
 * Harassing photography or recording.
@@ -48,6 +66,8 @@ Disrespectful behavior includes but is not limited to:
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the Moderators and Administrators (henceforth the “**moderation team**") publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community.
+
+These policies also extend to usernames.
 
 **The Bottom Line**: We believe in [being excellent to each other](https://youtu.be/S67sDHdhpio?t=79) above all things. We encourage everyone to be respectful and mindful, and to have fun in the community. Disrespectful behavior by active members may be considered a violation of this code of conduct at the moderation teams’ discretion.
 
@@ -89,6 +109,10 @@ Therefore, user generated content that is clearly explicit in either a graphic, 
 
 **The Bottom Line**: We welcome user generated content, but we do not welcome NSFW content. [Go be horny somewhere else](https://i.imgur.com/DxEqStK.mp4).
 
+## Slow Mode
+
+Some channels will have Slow Mode enabled to prevent them from becoming cesspits. Remember to read the room when contributing to these channels, and don't use shadow edits to make a point. Using shadow edits or other means to circumvent slow mode will be disciplined accordingly.
+
 ## Discussion about Games
 
 We welcome discussions about our games in their appropriate channels. As the nature of media consumption has changes in the age of binge-watching, there is always the chance that story elements from one title may be new to other people. For this reason, please respect if a channel has a moratorium on discussing story elements (‘spoilers’) and use channels that clearly specify if these story elements can be discussed in the open. This will almost always be indicated with `-spoilers` at the end of channel name. It goes without saying, but if you choose to visit one of these channels, you alone are entirely liable for your own exposure to such content.
@@ -121,17 +145,6 @@ If, after engaging with the community, you are still wondering if a specific mes
 * Selling of CD keys or links to grey area merchants like G2A is a Code of Conduct violation.
 * Discussion of piracy of any games, let alone ours, is a Code of Conduct violation.
 * Aggressive spamming is a Code of Conduct violation.
-
-### Surveys
-
-Members interested in surveying a channel must clearly state in the channel they intend to survey:
-
-1. The goal of the survey
-2. How the data will be used
-3. When and how will the results be shared with the channel
-4. Prior Authorization from the moderation team, upon fulfillment of the above goals
-
-**The Bottom Line**: Surveys posted without considering the above guidelines are considered a Code of Conduct violation.
 
 ## Don't Be a Troll
 
@@ -204,7 +217,7 @@ Administrators (or **Masterminds**) are employees of Volcano Lair LLC.
 
 The Administrator(s) of the Discord as of January 2023:
 
-* @kingthrillgor#1400 (Volcano Lair Managing Director)
+* @kingthrillgore#1400 (Volcano Lair Managing Director)
 
 ### Escalation of Moderation Team Actions
 
@@ -229,10 +242,12 @@ Due to the nature of running an online community, we cannot guarantee the right 
 
 This policy can be updated at any time as the moderation team deems fit. We will always keep you informed of updates, as quickly as possible.
 
+You can view Diffs of the Code of Conduct changes [here](https://gitlab.com/KingThrillgore/volcano-lair-legal-mumbo-jumbo/-/tree/main).
+
 ## Discord Policies
 
 All users are also subject to the [Discord Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
 
 # Attribution
 
-This COC was adopted from the [Rands Leadership Slack COC](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) and [NashGameDev Code of Conduct](https://nashgame.dev/codeofconduct/).
+This COC was adopted from the [Rands Leadership Slack COC](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md), [NashGameDev Code of Conduct](https://nashgame.dev/codeofconduct/), and the [/r/Signalis Discord](https://discord.gg/signalis).
