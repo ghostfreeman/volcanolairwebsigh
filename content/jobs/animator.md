@@ -23,11 +23,10 @@ We are seeking an experienced animator to join our team and help bring our gamin
 
 * Bachelor's degree in Computer Science, Game Development, the Arts, or a related field
 * 2+ years of experience in 3D Animation
-* Strong knowledge and background with applications like Houdini, Maya, and Blender
+* Strong knowledge and background with applications like Houdini, Maya, Cinema4D, and Blender
 * Experience in creating 3D games
 * Experience with animation systems in Unity and Godot game engines
 * Ability to work independently and as part of a team
-* Excellent problem-solving and debugging skills
 * Strong written and verbal communication skills
 
 ### And these won't hurt either
@@ -44,7 +43,7 @@ Volcano Lair provides comprehensive benefits including Health and Life insurance
 
 ## Interested?
 
-Apply to this position on Indeed, or email your resume and links to your portfolio and reels to `careers at volcanolair dot co`. If you are emailing us, include the position in your email title.
+Apply to this position on Indeed, or email your resume and links to your portfolio/reels to `careers at volcanolair dot co`. If you are emailing us, include the position in your email title.
 
 *Volcano Lair is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. Volcano Lair also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.*
 

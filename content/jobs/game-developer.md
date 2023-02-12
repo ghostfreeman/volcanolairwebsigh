@@ -25,7 +25,7 @@ We are seeking an experienced game developer to join our team and help bring our
 ## The qualifications you need
 
 * Bachelor's degree in Computer Science, Game Development, or a related field
-* 3+ years of experience in game development using Unity and Godot game engines
+* 3+ years of experience in game development using game engines
 * Strong knowledge of C#, C++, GDScript, and game programming concepts and design patterns
 * Experience in creating 2D and 3D games
 * Ability to work independently and as part of a team
@@ -35,6 +35,7 @@ We are seeking an experienced game developer to join our team and help bring our
 ### And these won't hurt either
 
 * Familiarity with Kanban style development
+* Experience with the Unity and Godot game engines
 * You've shipped at least one game
 * You live in or near the Denver/Colorado Springs area. This isn't required though, we're 100% remote!
 

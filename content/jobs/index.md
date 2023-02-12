@@ -4,7 +4,7 @@ date: 2023-01-20T12:12:01-06:00
 draft: true
 ---
 
-We're currently not hiring, but if you have worked in the industry and want to send your resume and portfolio over, shoot it over to us at `careers at volcanolair dot co` and we'll give it a look.
+We're currently not hiring, but if you have worked in the industry and want to send your resume and portfolio/reels over, shoot it over to us at `careers at volcanolair dot co` and we'll give it a look.
 
 Please don't send unsolicited game ideas. We legally cannot read them.
 
