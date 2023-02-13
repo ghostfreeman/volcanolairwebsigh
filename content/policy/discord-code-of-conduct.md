@@ -4,13 +4,13 @@ date: 2023-02-05T11:32:00-06:00
 draft: false
 ---
 
-Last updated 5 February 2023.
+Last updated 12 February 2023.
 
 # The Short Version
 
 1. You must be 17 years of age or older to be here.
 2. Be civil, polite, and friendly. Don't be disrespectful. And don't be a troll, either.
-3. Bigotry, sexism, racism, homophobia, transphobia, and fascism will not be tolerated. This extends to usernames.
+3. Bigotry, sexism, racism, homophobia, transphobia, and fascism will not be tolerated. This extends to usernames, profile pictures, uploaded content, and emojis.
 4. Spamming text, image, video or other kind of media in any kind of method is prohibited and will be handled accordingly.
 5. No Doxing, Stalking, or Deadnaming.
 6. If you feel someone's breaking the rules or you can't handle something w/ them directly, don't make a scene. Contact the moderation team instead.
@@ -51,13 +51,15 @@ Disrespectful behavior includes but is not limited to:
 * Deliberate intimidation, stalking, or following.
 * Otherwise being disrespectful to others.
 * Violent threats or language directed against another person.
-* Sexual language and imagery in any communication channel.
-* Harassing photography or recording.
+* Explicit sexual language and imagery, including pornography in any communication channel.
+* Harassing behavior, including but not limited to: chat messages, direct messages, photography and/or recording.
 * Racist, homophobic, or transphobic speech or ideals.
 * Promoting fascist speech or ideals (with the exception to inform, educate, or entertain; this distinction shall be made by the Moderation Team).
-* Defaming individuals based on a previous or unacknowledged name or gender, aka "deadnaming."
+* Defaming or identifying individuals based on a previous or unacknowledged name or gender, aka "deadnaming."
 * Intentionally disclosing personally identifying information on another user without their consent, aka "doxing."
 * Sustained disruption of voice chats, video chats, talks or other events.
+* Promoting or engaging in activities deemed illegal in the United States.
+* Recording of Video and Audio chats without the consent of all parties involved and the authorization of the moderation team.
 * Unwelcome sexual attention or advances.
 * Advocating for, or encouraging, any of the above behavior.
 
@@ -86,7 +88,7 @@ Once onboard, you will likely find yourself in a popular channel with many membe
 Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
 
 * Read the last couple of days of messages.
-* Examine the channel topic for helpful tips.
+* Examine the channel topic and pinned messages for helpful tips.
 * Click on the channel details and read the about section to see how many members are present, what messages have already been pinned, and what files have been shared.
 
 **The Bottom Line**: Posting the same message to multiple channels is spamming. Don't spam.
@@ -126,7 +128,7 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 * Is it obvious to the other member why I am contacting them privately? If not, should I provide context, such as a public post?
 * Could this message be considered unsolicited spam? If so, should you be sending it?
 
-**The Bottom Line**: Unsolicited DMs are likely Code of Conduct violations, especially with a commercial flavor.
+**The Bottom Line**: Unsolicited DMs are likely Code of Conduct violations, especially with a commercial or harassing flavor.
 
 ## Not For Profit (Mostly)
 
@@ -137,7 +139,7 @@ While apparent commercial behavior is easy to identify, non-obvious commercial b
 * Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and,
 * Listen to the response of your peers in the channel and act accordingly.
 
-If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community.
+If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask the moderation team.
 
 ### The Bottom Lines
 
@@ -145,6 +147,12 @@ If, after engaging with the community, you are still wondering if a specific mes
 * Selling of CD keys or links to grey area merchants like G2A is a Code of Conduct violation.
 * Discussion of piracy of any games, let alone ours, is a Code of Conduct violation.
 * Aggressive spamming is a Code of Conduct violation.
+
+## Voice and Video Chat
+
+All policies listed apply to voice and video chat.
+
+You may not record, log, or keep copies of discussions of anyone in voice or video chat for any reason and not done under coercion and duress, without both the explicit written consent of all parties in the chat at the time (two-party consent); and the authorization of the moderation team. **Anyone found recording voice or video chat without abiding by these terms will be subject to severe disciplinary action WITHOUT WARNING.**
 
 ## Don't Be a Troll
 
@@ -165,7 +173,7 @@ Content posted in this fashion results in a no-warning ban of the offending acco
 
 ## Content Review Process
 
-The moderation team may come across or be notified of content or conduct violating the Code of Conduct. In some situations, this may lead to the moderation team deleting the message (or messages) that violate the CoC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
+The moderation team may come across or be notified of content or conduct violating the Code of Conduct. In some situations, this may lead to the moderation team deleting the message (or messages) that violate the COC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
 Ideally, another Discord member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further moderation team action is required. Suppose action is desired due to lack of response or any other reason. In that case, the moderation team will notify the original poster of the violation and the need to reword or remove the problematic message. The moderation team will also specify a time after which moderation action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
 
@@ -191,13 +199,13 @@ If you cannot resolve a situation peacefully, please contact the moderation team
 
 Suppose the moderation team determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Discord.
 
-As the moderation team, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the moderation team's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
+As the moderation team, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the moderation team's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so. If they won't leave, we will remove them.
 
 ## Moderation Team
 
 ### Contacting the Moderation Team
 
-The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`.
+The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`. Messages sent through the contact form or email are sent to Administrators, and distributed to the rest of the moderation team accordingly.
 
 If for some reason you do not feel comfortable contacting a moderator and want to contact an administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
 
@@ -242,7 +250,9 @@ Due to the nature of running an online community, we cannot guarantee the right 
 
 This policy can be updated at any time as the moderation team deems fit. We will always keep you informed of updates, as quickly as possible.
 
-You can view Diffs of the Code of Conduct changes [here](https://gitlab.com/KingThrillgore/volcano-lair-legal-mumbo-jumbo/-/tree/main).
+You can view Diffs of the Code of Conduct changes [here](https://gitlab.com/KingThrillgore/volcano-lair-legal-mumbo-jumbo/-/commits/main/discord-code-of-conduct.md).
+
+You can view a log of all moderator actions [here](https://gitlab.com/KingThrillgore/volcano-lair-legal-mumbo-jumbo/-/blob/main/discord-moderation-log.md).
 
 ## Discord Policies
 
@@ -250,4 +260,8 @@ All users are also subject to the [Discord Community Guidelines](https://discord
 
 # Attribution
 
-This COC was adopted from the [Rands Leadership Slack COC](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md), [NashGameDev Code of Conduct](https://nashgame.dev/codeofconduct/), and the [/r/Signalis Discord](https://discord.gg/signalis).
+This COC was adopted from the [Rands Leadership Slack COC](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md), [NashGameDev Code of Conduct](https://nashgame.dev/codeofconduct/), and the [/r/Signalis Discord](https://discord.gg/signalis) code of conduct.
+
+# License
+
+This Code of Conduct is licensed under the same [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) license as the NashGameDev Code of Conduct, and may be used and adjusted for your own purposes under said license.
