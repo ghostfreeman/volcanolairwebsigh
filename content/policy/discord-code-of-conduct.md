@@ -14,7 +14,7 @@ Last updated 12 February 2023.
 4. Spamming text, image, video or other kind of media in any kind of method is prohibited and will be handled accordingly.
 5. No Doxing, Stalking, or Deadnaming.
 6. If you feel someone's breaking the rules or you can't handle something w/ them directly, don't make a scene. Contact the moderation team instead.
-7. Discussion of piracy or commercial solicitation is straight up not allowed. Don't do it.
+7. Discussion of piracy, commercial solicitation, and promoting crypto or any other digital currency or future, is straight up not allowed. Don't do it.
 8. NSFW content is not allowed. Go be horny somewhere else.
 9. Please keep story-related content in appropriate spoiler channels.
 10. Argue topics, not people. And don't be cruel about it. None of us are monsters.
@@ -145,6 +145,7 @@ If, after engaging with the community, you are still wondering if a specific mes
 
 * Emailing and/or/DMing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation.
 * Selling of CD keys or links to grey area merchants like G2A is a Code of Conduct violation.
+* Promotion of crypto or digital currencies is a Code of Conduct violation.
 * Discussion of piracy of any games, let alone ours, is a Code of Conduct violation.
 * Aggressive spamming is a Code of Conduct violation.
 
