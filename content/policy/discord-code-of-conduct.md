@@ -143,7 +143,7 @@ If, after engaging with the community, you are still wondering if a specific mes
 
 ### The Bottom Lines
 
-* Emailing and/or/DMing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation.
+* Emailing and/or DMing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation.
 * Selling of CD keys or links to grey area merchants like G2A is a Code of Conduct violation.
 * Promotion of crypto or digital currencies is a Code of Conduct violation.
 * Discussion of piracy of any games, let alone ours, is a Code of Conduct violation.
