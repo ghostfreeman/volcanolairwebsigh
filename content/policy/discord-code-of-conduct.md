@@ -4,7 +4,7 @@ date: 2023-02-05T11:32:00-06:00
 draft: false
 ---
 
-Last updated 12 February 2023.
+Last updated 22 February 2023.
 
 # The Short Version
 
@@ -53,6 +53,7 @@ Disrespectful behavior includes but is not limited to:
 * Violent threats or language directed against another person.
 * Explicit sexual language and imagery, including pornography in any communication channel.
 * Harassing behavior, including but not limited to: chat messages, direct messages, photography and/or recording.
+* Unwelcome sexual attention or advances.
 * Racist, homophobic, or transphobic speech or ideals.
 * Promoting fascist speech or ideals (with the exception to inform, educate, or entertain; this distinction shall be made by the Moderation Team).
 * Defaming or identifying individuals based on a previous or unacknowledged name or gender, aka "deadnaming."
@@ -60,14 +61,13 @@ Disrespectful behavior includes but is not limited to:
 * Sustained disruption of voice chats, video chats, talks or other events.
 * Promoting or engaging in activities deemed illegal in the United States.
 * Recording of Video and Audio chats without the consent of all parties involved and the authorization of the moderation team.
-* Unwelcome sexual attention or advances.
 * Advocating for, or encouraging, any of the above behavior.
 
 **Members asked to stop any inappropriate behavior are expected to comply immediately.**
 
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the Moderators and Administrators (henceforth the “**moderation team**") publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
-Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community.
+Don't be a bystander, be a good contributor. Role model respectful behavior, but also help to address disrespect when you see it.
 
 These policies also extend to usernames.
 
@@ -109,7 +109,7 @@ We welcome the community to create fan content based on our works in the manner 
 
 Therefore, user generated content that is clearly explicit in either a graphic, violent, or sexual nature, or otherwise in a manner that would make it inappropriate for public spaces (a.k.a. “Not Safe For Work,” **NSFW**) is not permitted on the Discord. The moderation team have sole judgement to rule if this content is allowed or not.
 
-**The Bottom Line**: We welcome user generated content, but we do not welcome NSFW content. [Go be horny somewhere else](https://i.imgur.com/DxEqStK.mp4).
+**The Bottom Line**: We welcome user generated content, but we do not welcome NSFW content. [Go be horny somewhere else](https://www.youtube.com/watch?v=oO-gc3Lh-oI).
 
 ## Slow Mode
 
@@ -202,6 +202,10 @@ Suppose the moderation team determine that a member is violating any part of thi
 
 As the moderation team, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the moderation team's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so. If they won't leave, we will remove them.
 
+## Other behavior and moderation team conduct
+
+We believe that community moderation is a two-way street, and questions about offending content or behavior will be addressed by us directly, and by the same extent, discussions about the conduct of the team, or level of disciplinary actions committed by the moderation team. We would rather you come to us first, than ask for forgiveness later. We don't have all the right answers, but if we can all treat this matter by remembering the human, we're damn certain we can make it fair to all.
+
 ## Moderation Team
 
 ### Contacting the Moderation Team
@@ -245,7 +249,7 @@ Using mechanisms to avoid, dodge, evade, or route around a ban, such as but not 
 
 ### Redress of Grievances and Appeal
 
-Due to the nature of running an online community, we cannot guarantee the right of appeal on decisions made by the moderation team. That said, we believe that community moderation is a two-way street, and questions about offending content or behavior will be addressed by us directly, and by the same extent, discussions about the level of disciplinary actions committed by the moderation team. We would rather you come to us first, than ask for forgiveness later.
+Due to the nature of running an online community, we cannot guarantee the right of appeal on decisions made by the moderation team. Except in a few circumstances like permabans for illegal content, all punishments with a discipline period longer than three days, will be granted the option of appeal. Appeals are heard by the entire Moderation team, and are decided as such. Due to the nature of appeals, the process is intentionally not made public, but the decisions of appeals are.
 
 ## Updates to this policy
 
