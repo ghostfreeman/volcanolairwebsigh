@@ -35,7 +35,7 @@ googleAnalytics = "G-WG01CH0XM7"
     title = "Volcano Lair"
     subtitle = "We Make Games"
     keywords = ""
-    copyright = '&copy; 2016-2022 Volcano Lair'
+    copyright = '&copy; 2016-2023 Volcano Lair'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
