@@ -1,7 +1,7 @@
 ---
 title: "Environments and a Player Controller"
 date: 2023-02-24T20:48:16-06:00
-draft: false
+draft: true
 toc: false
 images:
 tags:
