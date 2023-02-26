@@ -1,7 +1,7 @@
 ---
 title: "Environments and a Player Controller"
-date: 2023-02-24T20:48:16-06:00
-draft: true
+date: 2023-02-26T08:37:00-06:00
+draft: false
 toc: false
 images:
 tags:
@@ -11,7 +11,7 @@ tags:
 
 The time has finally come for an exciting devlog! Fresh off the presses, these posts will provide insight on projects, here at Volcano Lair, and our whopping staff of...one. One unpaid developer between jobs. Many of the things you'll read, have actually been in development for some time. It's going to take time to catch up with the project's current state, but these articles, they take time.
 
-So, lets jump right in on an in-development project. I've been sitting on this for a while as I watched the tooling for Godot improve. One of these spaces is level design tools. While I have used Blender before in the past, it's top-heavy. And I am an old-school gamer, who used to do stupid things in Quake and Half-Life. Blender isn't the tool i'm used to. It was my hopes that something more oriented around CSG-style modelling would be available. I hit the search engines and found a Quake map importer called [Qodot](https://github.com/QodotPlugin/qodot-plugin) covered on YouTube. Combined with [TrenchBroom](https://trenchbroom.github.io/), a Quake level editor, I had the necessary tooling for environments.
+So, lets jump right in on an in-development project. I've been sitting on this for a while as I watched the tooling for Godot improve. One of these spaces is level design tools. While I have used Blender before in the past, it's top-heavy. And I am an old-school gamer, who used to do stupid things in Quake and Half-Life. Blender isn't the tool I'm used to. It was my hopes that something more oriented around CSG-style modelling would be available. I hit the search engines and found a Quake map importer called [Qodot](https://github.com/QodotPlugin/qodot-plugin) covered on YouTube. Combined with [TrenchBroom](https://trenchbroom.github.io/), a Quake level editor, I had the necessary tooling for environments.
 
 My first introduction to both came courtesy of [LucyLavend's](https://lucylavend.com/) tutorial on Qodot, embedded below.
 
