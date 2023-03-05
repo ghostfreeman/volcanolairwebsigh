@@ -65,10 +65,15 @@ googleAnalytics = "G-WG01CH0XM7"
     name       = "Blog"
     url        = "/posts/"
 
-   [[menu.main]]
-	 identifier = "contact"
-     name       = "Contact"
-     url        = "/contact/"
+  [[menu.main]]
+	  identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+
+  [[menu.main]]
+	  identifier = "forums"
+    name       = "Forums"
+    url        = "https://forums.volcanolair.co"
 	
 [[params.social]]
  url = "//gamedev.social/@volcanolair"
