@@ -23,7 +23,7 @@ Last updated 4 March 2023.
 
 **If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Forums and/or Discord.**
 
-Make sure you read the full Guidelines [here](/policy/discord-code-of-conduct). Remember while on Discord, you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
+Make sure you read the full Guidelines [here](/policy/community-code-of-conduct). Remember while on Discord, you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
 
 # The Long Version
 
@@ -196,7 +196,7 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 These policies apply only to the Forums:
 
-* Discussions are to be oriented towards Volcano Lair games only. Discussions of an off-topic nature will be promptly locked and users warned. Go elsewhere for off topic discussions, like the Off Topic channels on the Discord.
+* Discussions are to be oriented towards Volcano Lair games only, and any content that extends from Volcano Lair, like blog posts, and so forth. Discussions of an off-topic nature will be promptly locked and users warned. Go elsewhere for off topic discussions, like the Off Topic channels on the Discord.
 * Organizing or attempting to sway user behavior ("mobbing") is not permitted.
 
 ## Additional Situations
