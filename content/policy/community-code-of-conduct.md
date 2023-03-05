@@ -1,10 +1,10 @@
 ---
-title: "Discord Code of Conduct"
-date: 2023-02-05T11:32:00-06:00
+title: "Community Code of Conduct"
+date: 2023-03-04T11:32:00-06:00
 draft: false
 ---
 
-Last updated 22 February 2023.
+Last updated 4 March 2023.
 
 # The Short Version
 
@@ -21,17 +21,15 @@ Last updated 22 February 2023.
 11. Always read the room first.
 12. Above all things: [Be excellent to each other](https://youtu.be/S67sDHdhpio?t=79).
 
-**If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Discord.**
+**If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Forums and/or Discord.**
 
-Make sure you read the full Guidelines [here](/policy/discord-code-of-conduct). Remember you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
-
-Click the Checkmark Reaction to indicate you've read the Code of Conduct, and to join in the fun.
+Make sure you read the full Guidelines [here](/policy/discord-code-of-conduct). Remember while on Discord, you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
 
 # The Long Version
 
 ## Respect
 
-The Volcano Lair Discord (henceforth the “**Discord**”) is an encouraging community dedicated to high quality shitposting around Volcano Lair, its products, and the fandoms that entail. The Discord is an inclusive environment based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
+The Volcano Lair community resources (henceforth named the "**Forums**" and “**Discord**”) is an encouraging community dedicated to high quality shitposting around Volcano Lair, its products, and the fandoms that entail. The Forums and Discord are inclusive environments based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
 We value respectful behavior above individual opinions.
 
@@ -79,7 +77,7 @@ This community is not a public space. However, no one has signed an non-disclosu
 
 Topics relating to Volcano Lair projects that are not intended or authorized for public discussion are not permitted, either.
 
-For attribution of specific content found on this Discord, we ask that you ask the originator of the content for permission.
+For attribution of specific content found on either the Forums or the Discord, we ask that you ask the originator of the content for permission.
 
 ## Read the Room
 
@@ -101,13 +99,13 @@ If you think we should have additional channels for other languages, let the mod
 
 ## Age Restrictions
 
-Due to safety regulations, and the maturity and graphicness of content produced by the company, we do not allow any user under the age of 17 to be active on the Discord. Anyone under the age of 17 will be barred from accessing the Discord.
+Due to safety regulations, and the maturity and graphicness of content produced by the company, we do not allow any user under the age of 17 to be active on either the Forums or Discord. Anyone under the age of 17 will be barred from accessing either.
 
 ## User Generated Content
 
-We welcome the community to create fan content based on our works in the manner they feel it would best express themselves. There are expectations that in order for our Discord to remain a safe and visible space for all parties.
+We welcome the community to create fan content based on our works in the manner they feel it would best express themselves. There are expectations that in order for our Forums or Discord to remain a safe and visible space for all parties.
 
-Therefore, user generated content that is clearly explicit in either a graphic, violent, or sexual nature, or otherwise in a manner that would make it inappropriate for public spaces (a.k.a. “Not Safe For Work,” **NSFW**) is not permitted on the Discord. The moderation team have sole judgement to rule if this content is allowed or not.
+Therefore, user generated content that is clearly explicit in either a graphic, violent, or sexual nature, or otherwise in a manner that would make it inappropriate for public spaces (a.k.a. “Not Safe For Work,” **NSFW**) is not permitted on the Forums or Discord. The moderation team have sole judgement to rule if this content is allowed or not.
 
 **The Bottom Line**: We welcome user generated content, but we do not welcome NSFW content. [Go be horny somewhere else](https://www.youtube.com/watch?v=oO-gc3Lh-oI).
 
@@ -159,13 +157,13 @@ You may not record, log, or keep copies of discussions of anyone in voice or vid
 
 A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory, digressive, extraneous, or off-topic messages to provoke members into displaying emotional responses and normalizing tangential discussion either for the troll's amusement or a specific gain.
 
-The determination of whether a message is trolling is often a subjective assessment by the moderation team, but there is a specific situation where the Discord has a zero-tolerance policy where:
+The determination of whether a message is trolling is often a subjective assessment by the moderation team, but there is a specific situation where the Forum or Discord has a zero-tolerance policy where:
 
 1. A message which is perceived and reported as trolling,
-2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Discord, and, 
+2. Is posted by a non-contributing member with little to no other engagement elsewhere on the Forums or Discord, and, 
 3. Is posted via a deliberately fake account.
 
-Content posted in this fashion results in a no-warning ban of the offending account from the Discord. Trolling which does not meet this high bar is managed via the usual content review process.
+Content posted in this fashion results in a no-warning ban of the offending account from the Forums and/or Discord. Trolling which does not meet this high bar is managed via the usual content review process.
 
 ### The Bottom Lines
 
@@ -176,7 +174,7 @@ Content posted in this fashion results in a no-warning ban of the offending acco
 
 The moderation team may come across or be notified of content or conduct violating the Code of Conduct. In some situations, this may lead to the moderation team deleting the message (or messages) that violate the COC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
-Ideally, another Discord member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further moderation team action is required. Suppose action is desired due to lack of response or any other reason. In that case, the moderation team will notify the original poster of the violation and the need to reword or remove the problematic message. The moderation team will also specify a time after which moderation action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
+Ideally, another Forum or Discord member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further moderation team action is required. Suppose action is desired due to lack of response or any other reason. In that case, the moderation team will notify the original poster of the violation and the need to reword or remove the problematic message. The moderation team will also specify a time after which moderation action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
 
 The determination of how much time is allowed is up to the moderation team, but the following context will be used to help determine the time before the moderation team’s action:
 
@@ -194,11 +192,18 @@ If you experience disrespectful behavior toward yourself or anyone else and feel
 
 Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are always growing in some shape or form, and all monsters can become beautiful.
 
+## Forums Specific Policies
+
+These policies apply only to the Forums:
+
+* Discussions are to be oriented towards Volcano Lair games only. Discussions of an off-topic nature will be promptly locked and users warned. Go elsewhere for off topic discussions, like the Off Topic channels on the Discord.
+* Organizing or attempting to sway user behavior ("mobbing") is not permitted.
+
 ## Additional Situations
 
 If you cannot resolve a situation peacefully, please contact the moderation team as the need arises.
 
-Suppose the moderation team determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Discord.
+Suppose the moderation team determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Forum and/or Discord.
 
 As the moderation team, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the moderation team's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so. If they won't leave, we will remove them.
 
@@ -210,7 +215,7 @@ We believe that community moderation is a two-way street, and questions about of
 
 ### Contacting the Moderation Team
 
-The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`. Messages sent through the contact form or email are sent to Administrators, and distributed to the rest of the moderation team accordingly.
+The moderation team can be contacted at any time in the #mod-help Discord channel, by sending a direct message to them via Discord or the Forum, through the Contact Form on the [Contact](/contact) page, or by email at `discord at volcanolair dot co`. Messages sent through the contact form or email are sent to Administrators, and distributed to the rest of the moderation team accordingly.
 
 If for some reason you do not feel comfortable contacting a moderator and want to contact an administrator directly, contact them through the `discord at volcanolair dot co` email and clarify in your message that the matter is meant solely for an administrator, or DM an administrator directly via Discord.
 
@@ -228,7 +233,7 @@ The administrators will solicit, recruit, and vet moderators at our own discreti
 
 Administrators (or **Masterminds**) are employees of Volcano Lair LLC.
 
-The Administrator(s) of the Discord as of January 2023:
+The Administrator(s) of both the Forums and Discord as of January 2023:
 
 * @kingthrillgore#1400 (Volcano Lair Managing Director)
 
@@ -241,7 +246,7 @@ Moderator and Administrator actions escalate from least severe to most severe:
 * Revocation of privileges on the server
 * Removal of comments and content
 * Temporary Ban for 1-14 days
-* Permanent Ban (“perma’d”) from the Discord
+* Permanent Ban (“perma’d”) from the either or both the Forums and Discord
 
 The moderation team reserve their judgement to use less or severe punishment as the needs arise.
 
@@ -261,7 +266,7 @@ You can view a log of all moderator actions [here](https://gitlab.com/KingThrill
 
 ## Discord Policies
 
-All users are also subject to the [Discord Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
+All Discord users are also subject to the [Discord Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
 
 # Attribution
 
