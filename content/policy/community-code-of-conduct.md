@@ -198,6 +198,7 @@ These policies apply only to the Forums:
 
 * Discussions are to be oriented towards Volcano Lair games only, and any content that extends from Volcano Lair, like blog posts, and so forth. Discussions of an off-topic nature will be promptly locked and users warned. Go elsewhere for off topic discussions, like the Off Topic channels on the Discord.
 * Organizing or attempting to sway user behavior ("mobbing") is not permitted.
+* The use of alternative or throwaway accounts ("sockpuppet accounts") for any purpose is not allowed.
 
 ## Additional Situations
 
