@@ -40,6 +40,7 @@ googleAnalytics = "G-WG01CH0XM7"
 
     [languages.en.params.logo]
       path = "/img/logo.svg"
+      path_light = "img/logo-black.svg"
       alt = "Volcano Lair"
 
     [languages.en.params.footer]

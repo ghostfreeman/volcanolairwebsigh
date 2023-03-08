@@ -2,8 +2,10 @@
 	height: 24px !important
 }
 
-body {
-	color: #e6ddc5 !important;
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #e6ddc5 !important;
+	}
 }
 
 .mcWRN {
