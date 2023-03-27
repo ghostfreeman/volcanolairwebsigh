@@ -21,15 +21,15 @@ Last updated 4 March 2023.
 11. Always read the room first.
 12. Above all things: [Be excellent to each other](https://youtu.be/S67sDHdhpio?t=79).
 
-**If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave, the Volcano Lair Forums and/or Discord.**
+**If you are being a problem, it will be made clear to you, and you may be asked to, or forced to leave the Comments, Volcano Lair Forums, and/or Discord.**
 
-Make sure you read the full Guidelines [here](/policy/community-code-of-conduct). Remember while on Discord, you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
+Make sure you read the full Guidelines [here](/policy/community-code-of-conduct). Remember while on Discord, you are also subject to the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines), and when commenting you are subject to [Disqus policies](https://help.disqus.com/en/collections/191787-terms-and-policies).
 
 # The Long Version
 
 ## Respect
 
-The Volcano Lair community resources (henceforth named the "**Forums**" and “**Discord**”) is an encouraging community dedicated to high quality shitposting around Volcano Lair, its products, and the fandoms that entail. The Forums and Discord are inclusive environments based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
+The Volcano Lair community resources (henceforth named "**Comments**," "**Forums**," and “**Discord**”) is an encouraging community dedicated to high quality shitposting around Volcano Lair, its products, and the fandoms that entail. The Forums and Discord are inclusive environments based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
 We value respectful behavior above individual opinions.
 

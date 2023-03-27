@@ -51,6 +51,7 @@ disqusShortname = 'volcano-lair'
       terms = "yes"
       # streaming = "yes"
       discord = "yes"
+      forums = "yes"
 
   # And you can even create generic menu
   [[menu.main]]
@@ -73,10 +74,10 @@ disqusShortname = 'volcano-lair'
     name       = "Contact"
     url        = "/contact/"
 
-  #[[menu.main]]
-	#  identifier = "forums"
-  #  name       = "Forums"
-  #  url        = "https://forums.volcanolair.co"
+  [[menu.main]]
+	  identifier = "forums"
+    name       = "Forums"
+    url        = "https://forums.volcanolair.co"
 	
 [[params.social]]
  url = "//gamedev.social/@volcanolair"

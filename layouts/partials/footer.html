@@ -14,7 +14,8 @@
             {{ if .Site.Params.footer.terms}}<span><a href="{{ "/terms" }}">Terms</a></span>{{end}}
             {{ if .Site.Params.footer.privacy }}<span><a href="{{ "/privacy/" }}" title="Privacy Policy">Privacy</a></span>{{end}}
             {{ if .Site.Params.footer.streaming }}<span><a href="{{ "/policy/streaming-policy" }}" title="Streaming Policy">Streaming</a></span>{{end}}
-            {{ if .Site.Params.footer.discord }}<span><a href="{{ "/policy/community-code-of-conduct" }}"><abbr title="Code of Conduct">Community Code of Conduct</abbr></a></span>{{end}}
+            {{ if .Site.Params.footer.discord }}<span><a href="{{ "/policy/community-code-of-conduct" }}"><abbr title="Code of Conduct">Code of Conduct</abbr></a></span>{{end}}
+            {{ if .Site.Params.footer.forums }}<span><span><a href="{{ "/policy/dmca" }}">DMCA</a></span>{{end}}
         </div>
     </div>
     {{ end }}
