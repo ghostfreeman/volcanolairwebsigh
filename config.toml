@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Volcano Lair"
 theme = "hello-friend-ng"
 googleAnalytics = "G-WG01CH0XM7"
+disqusShortname = 'volcano-lair'
+
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -40,7 +42,7 @@ googleAnalytics = "G-WG01CH0XM7"
 
     [languages.en.params.logo]
       path = "/img/logo.svg"
-      path_light = "img/logo-black.svg"
+      path_light = "/img/logo-black.svg"
       alt = "Volcano Lair"
 
     [languages.en.params.footer]
