@@ -1,10 +1,10 @@
 ---
 title: "Community Code of Conduct"
-date: 2023-03-04T11:32:00-06:00
+date: 2023-03-27T11:32:00-06:00
 draft: false
 ---
 
-Last updated 4 March 2023.
+Last updated 27 March 2023.
 
 # The Short Version
 
