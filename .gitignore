@@ -15,3 +15,6 @@ hugo.linux
 # IDE files
 .idea
 *.code-workspace
+
+# Files dir
+static/files/*
