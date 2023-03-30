@@ -24,9 +24,17 @@ The idea of commandeering vehicles is a pretty pivotal system for many games. In
 
 I did make one small modification to the controller, to add an “Interact” action which would throw the interact on any other Scene its colliding against:
 
-{{< rawhtml >}}
-<script src="https://gist.github.com/ghostfreeman/31be130a3e9dcfbd5eda7307853b32ee.js"></script>
-{{< /rawhtml >}}
+```gdscript
+func interact(interact := false):
+	# Return anything hitting the raycast collider
+	print("Interact thrown")
+	var collider = interact_collider.get_collider()
+	if collider != null:
+		if collider.is_in_group(group_for_interactions):
+			print("Player is facing an interactive")
+			emit_signal("throwing_interactive")
+			collider.interact()
+```
 
 This could be added elsewhere, but it seems pivotal enough to be in the controller. With this in place, all that remains is to extend the vehicle. But first, a sidebar…
 
@@ -34,17 +42,98 @@ This could be added elsewhere, but it seems pivotal enough to be in the controll
 
 In the process of adding a working handbrake, I ended up making the underlying vehicle controller act erratically. I had thought upon reviewing the initial code, it would seem a trivial addition:
 
-{{< rawhtml >}}
-<script src="https://gist.github.com/ghostfreeman/f00ff47b04f9b917ebf25b85266737aa.js"></script>
-{{< /rawhtml >}}
+```gdscript
+if Input.is_action_pressed(&"accelerate"):
+  # Increase engine force at low speeds to make the initial acceleration faster.
+  var speed := linear_velocity.length()
+  if speed < 5.0 and not is_zero_approx(speed):
+    engine_force = clampf(engine_force_value * 5.0 / speed, 0.0, 100.0)
+  else:
+    engine_force = engine_force_value
+
+  # Apply analog throttle factor for more subtle acceleration if not fully holding down the trigger.
+  engine_force *= Input.get_action_strength(&"accelerate")
+else:
+  engine_force = 0.0
+
+# Me: easy peasy all I need to do is add a pressed action here to clamp the engine force to 0
+# and the brake to 1.0
+
+if Input.is_action_pressed(&"reverse"):
+  # Increase engine force at low speeds to make the initial acceleration faster.
+  if fwd_mps >= -1.0:
+    var speed := linear_velocity.length()
+    if speed < 5.0 and not is_zero_approx(speed):
+      engine_force = -clampf(engine_force_value * 5.0 / speed, 0.0, 100.0)
+    else:
+      engine_force = -engine_force_value
+
+    # Apply analog brake factor for more subtle braking if not fully holding down the trigger.
+    engine_force *= Input.get_action_strength(&"reverse")
+  else:
+    brake = 0.0
+else:
+  brake = 0.0
+```
 
 This began a long struggle with the physics process. Looking at [the underlying behavior](https://github.com/godotengine/godot-demo-projects/blob/4.0/3d/truck_town/vehicles/vehicle.gd), the engine calculates velocity per physics tick, so simply adding logic to zero it out would make it impossible to increase the acceleration for the next tick. This made my handbrake more of an outright stall.
 
 I spent a good bit of time trying to find an ideal compromise, and ultimately settled on the below logic: 
 
-{{< rawhtml >}}
-<script src="https://gist.github.com/ghostfreeman/30eaa9749e16eb6adbca8e19916316a6.js"></script>
-{{< /rawhtml >}}
+```gdscript
+if Input.is_action_pressed(&"reverse"):
+  print("Reverse pressed (fwd_mps: ", fwd_mps, ")")
+  # Increase engine force at low speeds to make the initial acceleration faster.
+  if fwd_mps >= -1.0:
+    var speed := linear_velocity.length()
+    print("Meters Per Second is gteq -1 (speed: ", speed, ")")
+    if speed < 5.0 and not is_zero_approx(speed):
+      print("Reverse Engine")
+      engine_force = -clampf(engine_force_value * 5.0 / speed, 0.0, 0.0)
+      brake = 0.0
+    else:
+      print("Shunt Engine force to -40 and reverse")
+      engine_force = -engine_force_value
+      brake = 0.0
+
+    # Apply analog brake factor for more subtle braking if not fully holding down the trigger.
+    if brake == 0.5:
+      print("Appling Brake Factor Strength")
+      print("Kickstart engine force at its default of 40")
+      engine_force = -engine_force_value
+      print("brake is locked to 0.5, reset to 0")
+      brake = 0.0
+    
+    engine_force *= Input.get_action_strength(&"reverse")
+  else:
+    print("Meters per second is lteq -1")
+    print("Zero out brake")
+    brake = 0.0
+else:
+  #print("Reverse is not being pressed")
+  brake = 0.0
+
+if Input.is_action_pressed(&"handbrake"):
+  # Immediately halt engine force
+  if fwd_mps >= -1.0:
+    var speed := linear_velocity.length()
+    if speed < 5.0 and not is_zero_approx(speed):
+      # print("Clampf engine force to a value near to and eventually 0")
+      engine_force = -clampf(engine_force_value * 5.0 / speed, 0.0, 100.0)
+      brake = handbrake_force_value
+    else:
+      # print("Engine force must be zeroed out")
+      engine_force = 0
+      brake = handbrake_force_value
+
+    engine_force *= 0
+    brake = handbrake_force_value
+    # print("Handbrake Engine force ", engine_force)
+  else:
+    brake = 0
+else:
+  brake = 0
+```
 
 In essence, its akin to engine braking, where the `clampf` will negate the engine force, the stopping force must be low but never zero, and it will avoid any of the more difficult clamping action if the speed is less than 5 meters/second. And over the remaining ticks, it will zero out. It’s not perfect, but it fits the bill.
 
@@ -61,15 +150,17 @@ The possession logic itself works as follows:
 
 Now I know what you’re thinking: Why hide the player? Couldn’t you just remove the node, and re-add it? Well, I tried. A few variations even, but walking up the scene tree is difficult in a non-trivial way. Any time I reinitialized the Player inside the Vehicle scene, it was never spawned in the parent game scene. Thus, it never got captured again using the rigid Node call logic below:
 
-{{< rawhtml >}}
-<script src="https://gist.github.com/ghostfreeman/97bb500bab33cda1726263057d61a6e2.js"></script>
-{{< /rawhtml >}}
+```gdscript
+var scene_tree = get_parent().get_parent().get_parent().find_child("Player", true)
+```
 
 I also attempted to pull the node up the tree to no avail. And there’s no easy way to do this besides a singleton, and we’re pressed for time. Instead, we hide the player and disable its collision object, leaving it in-scene, and when we exit the vehicle, we re-position it based on a Marker3D next to the car door:
 
-{{< rawhtml >}}
-<script src="https://gist.github.com/ghostfreeman/8765a389bfa02488fd15b04ae8fcf338.js"></script>
-{{< /rawhtml >}}
+```gdscript
+var game_scene = get_parent().get_parent().get_parent()
+var player_scene = get_parent().get_parent().get_parent().find_child("Player", true)
+player_scene.global_position = player_spawn.global_position
+```
 
 And thus, we have a car you can hop in and out of at a whimsy.
 
