@@ -8,7 +8,7 @@ tags:
   - game-design
   - godot
   - programming
-  - quest-system
+  - vehicles
 ---
 
 I decided instead of just writing more about the theory of game design, today I’d go in depth regarding a demo i’m releasing today.
@@ -167,6 +167,22 @@ And thus, we have a car you can hop in and out of at a whimsy.
 ## Play for yourself
 
 You can download the demo [here](/files/cardrive). I haven’t done a lot of bug hunting besides the obvious physics object fix, so if you find issues, you’re on your own. But if you wanna pass them along, don’t be a stranger. You can now see there’s a forum and comments here. There will also be a Discord, someday. When we have something to ship.
+
+The controls for the demo are:
+
+* W/A/S/D - Move
+* Mouse - Look
+* W/S - Accelerate/Decelerate
+* A/D - Turn Car
+* Space - Jump/Handbrake
+* C - Toggle Crouch (FPS mode only)
+* F - Noclip Mode (FPS mode only)
+* E - Interact/Leave vehicle
+* U - Cycle speedometer unit
+* Shift - Toggle Sprint
+* Esc - Back (press twice in game to exit)
+
+There's partial controller bindings but they haven't been vetted or documented, I will get these in an updated release sometime in the coming days.
 
 The source code can be viewed [here](https://github.com/ghostfreeman/carposessdemo).
 
