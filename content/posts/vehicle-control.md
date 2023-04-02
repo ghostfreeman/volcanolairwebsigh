@@ -170,6 +170,8 @@ You can download the demo [here](/files/cardrive). I haven’t done a lot of bug
 
 The controls for the demo are:
 
+### Keyboard/Mouse
+
 * W/A/S/D - Move
 * Mouse - Look
 * W/S - Accelerate/Decelerate
@@ -182,7 +184,19 @@ The controls for the demo are:
 * Shift - Toggle Sprint
 * Esc - Back (press twice in game to exit)
 
-There's partial controller bindings but they haven't been vetted or documented, I will get these in an updated release sometime in the coming days.
+### Xbox/PlayStation
+
+* Left Stick/Left - Move/Turn Car
+* Right Stick/Right - Look
+* RT/R2 - Accelerate Car
+* LT/L2 - Decelerate/Reverse
+* X/Square - Interact/Leave vehicle
+* A/X - Jump
+* B/Circle - Handbrake
+* RS/R3 - Toggle crouch (FPS mode only)
+* LS/L3 - Toggle sprint (FPS mode only)
+* Back/Select - Cycle speedometer unit
+* D-Pad Up - Back (press twice in game to exit)
 
 The source code can be viewed [here](https://github.com/ghostfreeman/carposessdemo).
 
