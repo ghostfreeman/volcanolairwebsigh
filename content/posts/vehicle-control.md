@@ -200,4 +200,4 @@ The controls for the demo are:
 
 The source code can be viewed [here](https://github.com/ghostfreeman/carposessdemo).
 
-Check back in a week when I go off on a rant about storytelling in games.
+Check back soon I go off on a rant about storytelling in games.

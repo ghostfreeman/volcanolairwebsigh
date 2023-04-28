@@ -170,6 +170,10 @@ Content posted in this fashion results in a no-warning ban of the offending acco
 * The moderation team may delete messages that violate the Code of Conduct.
 * In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
 
+## Sexual or Suggestive Content Involving Minors
+
+Posting or linking to content of a sexual nature involving minors (including but not limited to: child sexual abuse imagery, child pornography, fantasy content, and "lolicon/loli" anime/manga), will result in an immediate unappealable ban; and if the circumstances require, notification of the proper authorities in a state or United States federal jurisdiction as the nature of the content deems appropriate. The moderation team alone will make the decision of what content falls under this category.
+
 ## Content Review Process
 
 The moderation team may come across or be notified of content or conduct violating the Code of Conduct. In some situations, this may lead to the moderation team deleting the message (or messages) that violate the COC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
